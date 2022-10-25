@@ -2,6 +2,7 @@
 <html lang="en-us">
 
 <head>
+    <!-- Added in meta tags for better SEO and made descriptive title -->
     <meta charset="UTF-8">
     <meta name="keywords" content="search engine optimzation, online reputation management, social media marketing">
     <meta name="description" content="Horiseon offers search engine optimization and social media strategies to build your online profile.">
@@ -10,7 +11,8 @@
 </head>
 
 <body>
-    <header class="header" aria-label="Four people working at a conference table">
+    <!-- Replaced divs with semantic tags throughout body where applicable -->
+    <header>
         <h1>Hori<span class="seo">seo</span>n</h1>
         <div>
             <nav>
@@ -28,10 +30,12 @@
             </nav>
         </div>
     </header>
-    <div class="hero"></div>
+    <!-- Added aria-label to div so that background image in CSS would have an alt if image can't display -->
+    <div class="hero" aria-label="Four people working at a conference table"></div>
     <main>
+        <!-- Added alt tags, removed unnecessary \ in image tags, removed unused IDs -->
         <div class="content">
-            <section class="search-engine-optimization">
+            <section class="content-section">
                 <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="Notebook with search enging optimization notes">
                 <h2>Search Engine Optimization</h2>
                 <p>
@@ -40,7 +44,7 @@
                     your visibility and find the right customers for your business.
                 </p>
             </section>
-            <section id="online-reputation-management" class="online-reputation-management">
+            <section class="content-section">
                 <img src="./assets/images/online-reputation-management.jpg" class="float-right" alt="Laptop with reputation graph">
                 <h2>Online Reputation Management</h2>
                 <p>
@@ -49,7 +53,7 @@
                     gives you the control over what potential customers see when they search for your business.
                 </p>
             </section>
-            <section id="social-media-marketing" class="social-media-marketing">
+            <section class="content-section">
                 <img src="./assets/images/social-media-marketing.jpg" class="float-left" alt="Social media icons on a tabletop">
                 <h2>Social Media Marketing</h2>
                 <p>
@@ -60,7 +64,7 @@
             </section>
         </div>
         <aside class="benefits">
-            <section class="benefit-lead">
+            <section class="benefit-section">
                 <h3>Lead Generation</h3>
                 <img src="./assets/images/lead-generation.png" alt="Funnel converting work to sales output">
                 <p>
@@ -68,15 +72,15 @@
                     directly to your website.
                 </p>
             </section>
-            <section class="benefit-brand">
+            <section class="benefit-section">
                 <h3>Brand Awareness</h3>
-                <img src="./assets/images/brand-awareness.png" alt="Torse with lightbulb for head">
+                <img src="./assets/images/brand-awareness.png" alt="Torso with lightbulb for head">
                 <p>
                     Users find your business through paid and organic searches, increasing the search ranking and
                     visibility for your business.
                 </p>
             </section>
-            <section class="benefit-cost">
+            <section class="benefit-section">
                 <h3>Cost Management</h3>
                 <img src="./assets/images/cost-management.png" alt="Gear and dollar signs">
                 <p>
@@ -88,7 +92,8 @@
     </main>
 
     <footer class="footer">
-        <h2>Made with ❤️️ by Horiseon</h2>
+        <!-- Altered footer heading to an h4 to preserve semantic order but kept font size in CSS -->
+        <h4>Made with ❤️️ by Horiseon</h4>
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.
         </p>
