@@ -12,7 +12,7 @@ N/A
   
 Website is deployed at the following address: https://meduion.github.io/challenge1-horiseon/
   
-![Image of Horiseon Webpage](./assets/images/screenshot.png)
+![Image of Horiseon Webpage](/assets/images/horiseon.jpeg)
   
 ## Credits
   
