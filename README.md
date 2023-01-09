@@ -1,40 +1,40 @@
-# fdasf
+# autoREADME
 
-  [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
   ## Description
 
-  fdasfda
+  An automatic readme generator.
 
   ## Contents
   
-  [Useage](#useage)
-  [Installation](#installation)
-  [Contributions](#contributions)
-  [Tests](#tests)
-  [Questions](#questions)
+  - [Usage](#usage)
+  - [Installation](#installation)
+  - [Contributions](#contributions)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
-  ## Useage
+  ## Usage
 
-  fdafads
+  Follow the prompts to decide which sections to include and then fill in a description for the section.
 
   ## Installation
 
-  fadfas
+  Not really anything
 
   ## License
 
-  This project is licensed under Boost Software License 1.0. For more information (if applicable), please click the following button to learn more:
+  This project is licensed under BSD 3-Clause. For more information (if applicable), please click the following button to learn more:
 
-  [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
   ## Contributions
 
-  fdafdas
+  Please include credits for original work.
 
   ## Tests
 
-  fdafasd
+  There aren't any tests yet.
 
   ## Questions
 
