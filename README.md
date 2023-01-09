@@ -8,11 +8,11 @@
 
   ## Contents
   
-    [Useage](#useage)
-    [Installation](#installation)
-    [Contributions](#contributions)
-    [Tests](#tests)
-    [Questions](#questions)
+  [Useage](#useage)
+  [Installation](#installation)
+  [Contributions](#contributions)
+  [Tests](#tests)
+  [Questions](#questions)
 
   ## Useage
 
